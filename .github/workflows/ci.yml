@@ -2,7 +2,7 @@ name: Simple CI pipeline
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
          
 
 jobs:
